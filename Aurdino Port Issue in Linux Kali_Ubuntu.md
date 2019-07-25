@@ -3,7 +3,7 @@
 
 ![](https://github.com/msrsakib/solution/blob/master/img/arduino.png)
 
--> avrdude: ser_open(): can't open device "/dev/ttyACM1": Permission denied
+> avrdude: ser_open(): can't open device "/dev/ttyACM1": Permission denied
 
 
 
