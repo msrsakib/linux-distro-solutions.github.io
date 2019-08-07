@@ -1,5 +1,7 @@
 # For Debian based Linux OS. Ubuntu , Kali Linux.
 
+Using this process, the git project can be build in Linux OS .
+
 `~$ sudo apt-get install git`
 
 `~$ sudo apt-get install autoconf`
@@ -8,7 +10,7 @@
 
 `~$ sudo apt-get install libgtk-3-dev`
 
-# clone git 
+# Clone git 
 
 `~$ git clone <repositoriess link> `
 
