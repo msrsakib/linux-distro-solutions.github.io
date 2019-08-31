@@ -3,7 +3,7 @@ I tried lots of way to install Mailspring in Kali Linux. But got failed. Lasty I
 
 ## Step 1 : Install Snap 
 
-Follow this procedure to install snap : 
+Follow this procedure to install snap : https://github.com/msrsakib/solution/blob/master/Linux_Setup_FirstTime/Install_Snap_in_Kali_LInux.md
 
 ## Step 2 : Install Mailspring via Snap from treminal or from Snap store.
 
