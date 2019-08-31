@@ -98,18 +98,31 @@ To open Snap store after finishing installation.
 
 `~$ snap-store`
 
-## Extra :
+# Extra :
 
-# Find Package :
+## Find Package :
 
-`~$ sudo snap find <package name> '
+`~$ sudo snap find <package name> `
+
+## Install package using snap :
+
+`~$ sudo snap install <package name> `
+
+## List of installed apps :
+
+`~$ snap list `
+
+## Update snap package :
+
+`~$ sudo snap refresh <package name> `
+
+## Uninstall snap package :
+
+`~$ sudo snap remove <package name> `
 
 
+I successfully installed Snap in my Comupter System using this procedures.
 
- 
+## System Info :
 
-
-
-
-
-
+![](https://github.com/msrsakib/solution/blob/master/img/kali/System_info.png)
