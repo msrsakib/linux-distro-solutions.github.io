@@ -43,8 +43,8 @@ To install Snapd follow the commands.
 
 ## Step 4 :Enable Systemd Unit
 
-`~$systemctl start apparmor`
-`~$systemctl enable apparmor`
+`~$ systemctl start apparmor`
+`~$ systemctl enable apparmor`
 
 ![](https://github.com/msrsakib/solution/blob/master/img/kali/06_snap_installation.png)
 
@@ -52,7 +52,7 @@ To install Snapd follow the commands.
 
 Exicuting following command snap 'core' will be installed too if it's not installed in system.
 
-`~$snap install hello-world`
+`~$ snap install hello-world`
 
 ![](https://github.com/msrsakib/solution/blob/master/img/kali/07_snap_installation.png)
 
@@ -64,7 +64,7 @@ After restart PC if Snap doesn't work then need to edit bash file. To do this fo
 
 Step 1 : Edit Bash File 
 
-`~$gedit ~/.bashrc`
+`~$ gedit ~/.bashrc`
 
 ![](https://github.com/msrsakib/solution/blob/master/img/kali/08_snap_installation.png)
 
@@ -78,19 +78,33 @@ Save the bash file.
 
 Step 3 : Exicute Bash.
 
-`~$source ~/.bashrc`
+`~$ source ~/.bashrc`
 
 ![](https://github.com/msrsakib/solution/blob/master/img/kali/10_snap_installation.png)
 
+Restart the system and enjoy Snap .
 
-## Getting more help from snap
+## Getting more help snap :
 
-`~$snap help refresh`
+`~$ snap help refresh`
+
+## Install Snap-store :
+
+To install snap store follow the command: 
+
+`~$ sudo snap install snap-store`
+
+To open Snap store after finishing installation.
+
+`~$ snap-store`
+
+## Extra :
+
+# Find Package :
+
+`~$ sudo snap find <package name> '
 
 
-## Install Snap-store
-
-`~$sudo snap install snap-store`
 
  
 
@@ -99,4 +113,3 @@ Step 3 : Exicute Bash.
 
 
 
-Restart 
