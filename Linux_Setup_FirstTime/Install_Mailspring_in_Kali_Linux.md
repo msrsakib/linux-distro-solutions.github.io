@@ -13,7 +13,7 @@ Install using terminal
 
 After exicuting the command mailspring wil be ready to use. But there may be an issue. To skip or solve the issue follow step 3.
 
-# Step 3 : Install libsecret
+## Step 3 : Install libsecret
 
 `~$ sudo apt install libsecret-1-dev`
 
@@ -22,3 +22,7 @@ Now Mailspring is completely ready to use.
 Now open Mailspring using terminal `~$ mailspring` or from app search bar manually. Create an account if you didn't have and enjoy.
 
 I successfully install Mailspring in my Kali system.
+
+##  System Info :
+
+![](https://github.com/msrsakib/solution/blob/master/img/kali/System_info.png)
