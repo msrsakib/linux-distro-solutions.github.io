@@ -12,3 +12,9 @@ systemctl enable apparmor
 snap install hello-world
 
 snap help refresh
+
+gedit ~/.bashrc
+
+export PATH=$PATH:/snap/bin
+
+source ~/.bashrc
