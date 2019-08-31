@@ -10,5 +10,5 @@
 
 04 . [Fix] E: Could not get lock Ubuntu_Kali Linux : https://github.com/msrsakib/solution/blob/master/%5BFix%5D%20E:%20Could%20not%20get%20lock%20Ubuntu_Kali%20Linux.md
 
-05. Install Mailspring in Kali Linux : https://github.com/msrsakib/solution/blob/master/Linux_Setup_FirstTime/Install_Mailspring_in_Kali_Linux.md
+05 . Install Mailspring in Kali Linux : https://github.com/msrsakib/solution/blob/master/Linux_Setup_FirstTime/Install_Mailspring_in_Kali_Linux.md
 
