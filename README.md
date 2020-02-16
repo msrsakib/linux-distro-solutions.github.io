@@ -14,7 +14,7 @@
 
 ------------------------------------------------------------------------------------------
 
-## Easy Update script for ubuntu using
+## Easy Update script for ubuntu 
 
 After downloading "update" file open terminal in Downloads, run the commands:
 
