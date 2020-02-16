@@ -12,3 +12,23 @@
 
 05 . Install Mailspring in Kali Linux : https://github.com/msrsakib/solution/blob/master/Linux_Setup_FirstTime/Install_Mailspring_in_Kali_Linux.md
 
+------------------------------------------------------------------------------------------
+
+## Easy Update script for ubuntu using
+
+After downloading "update" file open terminal in Downloads, run the commands:
+
+`~$ sudo -s `
+
+`~$ mv update /usr/bin/ `
+
+`~$ chmod +x /usr/bin/update `
+
+For updating run the below command: 
+
+`~$ sudo update `
+
+==================================================================
+
+
+
